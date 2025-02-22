@@ -1,0 +1,6 @@
+flask
+numpy
+pandas=1.2.4
+seaborn
+matplotlib
+gunicorn==20.0.4
